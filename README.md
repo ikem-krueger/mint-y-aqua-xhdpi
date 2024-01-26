@@ -10,7 +10,7 @@ This theme is based on [mmolch-xfce (xhdpi)](https://github.com/mmolch/mmolch-xf
 
 Click on "Code" and "Download ZIP".
 
-Extract the downloaded zip-file to:
+Extract the downloaded zip-file to one of this folders:
 
 - user folder: `~/.local/share/themes`
 - system folder: `/usr/share/themes` (needs root permissions)
