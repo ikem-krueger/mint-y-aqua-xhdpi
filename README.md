@@ -13,6 +13,6 @@ Click on "Code" and "Download ZIP".
 Extract the downloaded zip-file to one of this folders:
 
 - user folder: `~/.local/share/themes`
-- system folder: `/usr/share/themes` (needs root permissions)
+- system folder (needs root permissions): `/usr/share/themes`
 
 Open "Settings Manager" > "Window Management" and choose "Mint-Y-Aqua (xhdpi)".
