@@ -10,6 +10,9 @@ This theme is based on [mmolch-xfce (xhdpi)](https://github.com/mmolch/mmolch-xf
 
 Click on "Code" and "Download ZIP".
 
-Extract the zip-file either to your user folder `~/.local/share/themes` or system folder `/usr/share/themes` (needs root permissions).
+Extract the zip-file:
+
+- user folder: `~/.local/share/themes`
+- system folder: `/usr/share/themes` (needs root permissions)
 
 Open "Settings Manager" > "Window Management" and choose "Mint-Y-Aqua (xhdpi)".
