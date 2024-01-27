@@ -19,4 +19,4 @@ Extract the downloaded zip-file to one of this folders:
 - user folder: `~/.local/share/themes`
 - system folder (needs root permissions): `/usr/share/themes`
 
-Open "Settings Manager" > "Window Manager" and choose "Mint-Y-Aqua (xhdpi)".
+Open "Settings" > "Window Manager" and choose "Mint-Y-Aqua (xhdpi)".
