@@ -2,7 +2,7 @@
 
 Linux Mint 21.3 Xfce is missing a high dpi window manager theme.
 
-To create the theme I did:
+To create the Xfce window manager theme I did:
 
 ```bash
 cd Mint-Y-Aqua/xfwm4
