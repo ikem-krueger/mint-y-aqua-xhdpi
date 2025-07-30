@@ -1,0 +1,2 @@
+- [ ] Fix corner radius
+- [ ] Fix menu button
